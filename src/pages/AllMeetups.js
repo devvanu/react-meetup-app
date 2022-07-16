@@ -1,3 +1,3 @@
 export default function AllMeetupsPage(){
-    return <div>All Meetups Page</div>;
+    return <div className="center">All Meetups Page</div>;
 }
