@@ -7,7 +7,7 @@ export default function MainNavigation(){
         <header className={styles.header}>
             <div className={styles.logo}>React Meetups</div>
             <nav>
-                <ul className>
+                <ul>
                     <li> <Link to="/">All Meetups</Link></li>
                     <li> <Link to="/new-meetup">Add New Meetup</Link> </li>
                     <li> <Link to="/favourites">My Favourites</Link> </li>
