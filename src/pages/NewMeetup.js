@@ -1,3 +1,3 @@
 export default function NewMeetuPage(){
-    return <div>NewMeetup Page</div>;
+    return <div className="page_style">NewMeetup Page</div>;
 }
